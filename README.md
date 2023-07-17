@@ -1,8 +1,5 @@
 <h1>Oii, ℭoletti aqui, seja bem vindo(a) ao meu Github 😉</h1>
 
-
-<img align='right' src="https://cdn.discordapp.com/attachments/929108366930874439/1130525989135450162/logo60_fps.gif" width="220" height="220">
-
 <div align='left'>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscoletti08\&show_icons=true\&theme=dracula)
