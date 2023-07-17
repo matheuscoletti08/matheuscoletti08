@@ -1,10 +1,6 @@
 <h1>Oii, ℭoletti aqui, seja bem vindo(a) ao meu Github 😉</h1>
 
-<div>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscoletti08\&show_icons=true\&theme=dracula)
 
-</div>
 
 <div> 
   <a href="https://instagram.com/mxth_coletti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -12,4 +8,11 @@
   <a href = "mailto:matheus.coletti08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-marques-coletti-06a4a1274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>
+<img align='right' src="https://cdn.discordapp.com/attachments/929108366930874439/1130525989135450162/logo60_fps.gif" width="240" height="240">
+
+<div align='left'>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscoletti08\&show_icons=true\&theme=dracula)
+
 </div>
