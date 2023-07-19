@@ -1,12 +1,5 @@
-<h1>Oii, ℭoletti aqui, seja bem vindo(a) ao meu Github 😉</h1>
+<h1>Oii, ℭoletti aqui, seja bem vindo(a) ao meu Github 😉</h1
 
-<div align='left'>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscoletti08\&show_icons=true\&theme=dracula)
-
-</div>
-
-<hr>
 <div> 
   <a href="https://instagram.com/mxth_coletti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/users/887130335849091092" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
